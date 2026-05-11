@@ -153,8 +153,6 @@ This project builds a **multi-class classification system** that identifies **10
 - 📊 **Probability chart** — all 10 class probabilities
 - 🔍 **Preprocessing view** — see the 32×32 skeleton
 
-### Screenshot
-> *(Add screenshot of deployed app here)*
 
 ---
 
